@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashot
 
-<!--
-**Ashottorosyan95/AshotTorosyan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer** with 4+ years of experience  
+💻 Strong focus on **Backend (Node.js, NestJS, PostgreSQL)**  
+🎨 Skilled in **Frontend (React, Next.js, TypeScript)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, SQL  
+- **Frontend:** React, Next.js, Redux Toolkit, Zustand, TailwindCSS  
+- **Backend:** Node.js, NestJS, Express, Prisma, TypeORM  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Supabase  
+- **DevOps & Tools:** Docker, GitHub Actions, AWS, Redis, RabbitMQ, Kafka  
+
+---
+## 🌟 Featured Projects
+
+### 🔹 [Online Store](https://github.com/Ashottorosyan95/online-store)
+Full-stack e-commerce platform with separate client & admin panels.  
+**Stack:** Node.js, MongoDB, React (Client), React (Admin)
+
+---
+
+### 🔹 [Mini Booking Platform](https://github.com/Ashottorosyan95/mini-booking-platform)
+Mini booking application with authentication and payments.  
+**Stack:** Next.js, Supabase, Stripe, TailwindCSS
+
+---
+
+### 🔹 [Fribe](https://github.com/Ashottorosyan95/fribe-nest-react)
+Social app prototype with NestJS backend and React frontend.  
+**Stack:** NestJS, React, TypeScript
+
+---
+
+## 📬 Contact
+- LinkedIn: [Ashot Torosyan](https://www.linkedin.com/in/ashot-torosyan-37356921b/)  
+- GitHub: [AshotTorosyan95](https://github.com/Ashottorosyan95)  
+- Email: torosyanashot726@gmail.com 
