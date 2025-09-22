@@ -35,6 +35,14 @@ Mini booking application with authentication and payments.
 Social app prototype with NestJS backend and React frontend.  
 **Stack:** NestJS, React, TypeScript
 
+### 🔹 [Notion NestJS Test Task (Redis)](https://github.com/Ashottorosyan95/notion-nestjs-test-task-redis)
+Task implementation using NestJS, Redis and TypeScript.  
+**Stack:** NestJS, Redis, TypeScript
+
+### 🔹 [Combinations Generator API](https://github.com/Ashottorosyan95/combinations-test-task)
+API for generating and managing unique item combinations.  
+**Stack:** Node.js, Express, MySQL
+
 ---
 
 ## 📬 Contact
