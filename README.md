@@ -1,14 +1,17 @@
 # 👋 Hi, I'm Ashot
 
 🚀 **Full-Stack Developer** with 4+ years of experience  
-💻 Strong focus on **Backend (Node.js, NestJS, PostgreSQL)**  
-🎨 Skilled in **Frontend (React, Next.js, TypeScript)**  
+💻 Strong focus on **Backend (Node.js, NestJS, PostgreSQL, MongoDB)**  
+🎨 Skilled in **Frontend (React, Next.js, TypeScript, TailwindCSS)**  
+🖥️ Experienced with **Electron (desktop apps)**  
+📱 Experienced with **React Native (mobile apps)** 
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, SQL  
-- **Frontend:** React, Next.js, Redux Toolkit, Zustand, TailwindCSS  
+- **Frontend (Web):** React, Next.js, Redux Toolkit, Zustand, TailwindCSS  
+- **Frontend (Mobile/Desktop):** React Native, Electron  
 - **Backend:** Node.js, NestJS, Express, Prisma, TypeORM  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Supabase  
 - **DevOps & Tools:** Docker, GitHub Actions, AWS, Redis, RabbitMQ, Kafka  
